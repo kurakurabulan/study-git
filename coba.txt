@@ -2,3 +2,4 @@ Coba membuat file di repository Github
 Coba mengedit file kemudian mengirim commit ke remote
 
 test marge error
+belajar GitKraken, solo leveling
